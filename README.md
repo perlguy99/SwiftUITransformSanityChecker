@@ -1,5 +1,7 @@
 #  SwiftUI Transform Sanity Checker
 
+![Transform Viewer](/TransformSanityChecker.gif)
+
 A simple tool written purely in swiftUI for viewing the effects of various transforms. This can either be used to help with learning the matrix operations behind transforms or for combining transforms to get a desired effect. 
 
 
